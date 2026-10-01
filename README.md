@@ -4,17 +4,121 @@ I'm Jeremiah, a Computer Science student and a Backend Developer.
 
 Upskilling in various areas(Python, Data Structures and Algorithms, Backend Architecture, System Design)
 
-<!--
-**AJeremiahalbert/AJeremiahalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning by building, documenting my progress, and turning ideas into working projects.
 
-Here are some ideas to get you started:
+🚀 Currently building a **social EdTech platform for language learners**, focused on creating a collaborative learning experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages**
+- JavaScript
+- TypeScript
+- Python
+
+**Backend**
+- Node.js
+- Express.js
+- Flask
+
+**Databases & Services**
+- PostgreSQL
+- Supabase
+
+**Tools & Platforms**
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
