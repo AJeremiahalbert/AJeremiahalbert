@@ -8,29 +8,6 @@ I enjoy learning by building, documenting my progress, and turning ideas into wo
 
 🚀 Currently building a **social EdTech platform for language learners**, focused on creating a collaborative learning experience.
 
-### Tech Stack
-
-**Languages**
-- JavaScript
-- TypeScript
-- Python
-
-**Backend**
-- Node.js
-- Express.js
-- Flask
-
-**Databases & Services**
-- PostgreSQL
-- Supabase
-
-**Tools & Platforms**
-- Git
-- GitHub
-- Postman
-- VS Code
-- Vercel
-
 
 
 
