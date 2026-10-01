@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## I'm Jeremiah, a Computer Science student and a Backend Developer.
+
+Upskilling in various areas(Python, Data Structures and Algorithms, Backend Architecture, System Design)
+
 <!--
 **AJeremiahalbert/AJeremiahalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
