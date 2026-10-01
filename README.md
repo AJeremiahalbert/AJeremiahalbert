@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Jeremiah, a Computer Science student and a Backend Developer.
+I'm Jeremiah, a Computer Science student and a Backend Developer.
 
 Upskilling in various areas(Python, Data Structures and Algorithms, Backend Architecture, System Design)
 
