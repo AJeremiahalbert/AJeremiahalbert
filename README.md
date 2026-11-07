@@ -1,7 +1,7 @@
-## ALBERT JEREMIAH ADERIYE
+## Albert Jeremiah
 
 
-I'm Jeremiah, a Computer Science student and a Backend Developer.
+Hi, i'm a CS Student and a Software Engineer.
 
 Upskilling in various areas(Python, Data Structures and Algorithms, Backend Architecture, System Design)
 
