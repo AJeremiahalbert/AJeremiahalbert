@@ -1,4 +1,5 @@
-## ALBERT JEREMIAH ADERIYE 👋
+## ALBERT JEREMIAH ADERIYE
+
 
 I'm Jeremiah, a Computer Science student and a Backend Developer.
 
